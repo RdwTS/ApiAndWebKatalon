@@ -6,11 +6,12 @@
    <UUID>4aeb9144-32ef-4199-a622-ba8332712a19</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.2.4</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.2.4</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>E:\Ridwan\Learn\Katalon Studio\git\ApiAndWebKatalon\ApiAndWebKatalon.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
